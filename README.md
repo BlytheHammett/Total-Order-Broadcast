@@ -5,4 +5,5 @@ This is a distributed systems algorithm that ensures all processes deliver messa
 ## Installation
 
 The server process is started by running the command 'python3 server.py'.
+
 The client processes are started by running the command 'python3 client.py'.
